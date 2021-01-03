@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="/LandingPage/css/dark.css">
 
     <nav class="navbar navbar-expand-lg navbar-dark">
-        <a class="navbar-brand" href="#">
-            <img src="/LandingPage/images/coindash-logo-light.svg" alt="logo">
+        <a class="navbar-brand" href="/">
+            GenZSwap
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,10 +39,10 @@
     <div class="site-header  d-flex flex-column align-items-center justify-content-between">
         <div class="hero">
             <h1>The
-                <span class="highlight">Digital Asset</span> for Payments</h1>
+                <span class="highlight">Decentralized Exchange</span> for Stablecoins</h1>
             <p class="lead mt-3 mx-auto">It’s the fastest and most scalable digital asset, enabling real-time global
                 payments anywhere in the world.</p>
-            <a href="#" class="btn btn-primary mt-3">Explore Coin
+            <a href="#" class="btn btn-primary mt-3">Start Swapping 
                 <img src="/LandingPage/images/right-arrow.svg" alt="arrow">
             </a>
         </div>
@@ -102,9 +102,9 @@
 
 
             <div class="section-title max-title">
-                <h3>Coindash Token Sale</h3>
+                <h3>GenZSwap Investment</h3>
             </div>
-            <p class="lead p-3 centered-text text-center mx-auto">Coindash Token Pool is a fixed token economy set by
+            <p class="lead p-3 centered-text text-center mx-auto">GenZSwap Liquidity Pool is a fixed token economy set by
                 the demand of the Coin Token Main Sale, which concluded on
                 May 20</p>
 
@@ -156,29 +156,13 @@
             </div>
             <!-- // row -->
             <div class="text-center">
-                <div class="btn btn-lg btn-primary mt-5">Purchase Coin Now
+                <div class="btn btn-lg btn-primary mt-5">Start Investing
                     <img src="/LandingPage/images/right-arrow.svg" alt="arrow">
                 </div>
                 <div class="text-muted my-3">
                     Limited supply: after sale ends, coin obtained only through mining & exchanges
                 </div>
             </div>
-
-            <div class="row">
-                <div class="col-12 col-md-6 offset-md-4">
-                    <div class="section-title mini-title left-aligned">
-                        <h4>Stable Coin Distribution</h4>
-                    </div>
-                    <div class="d-flex flex-column flex-lg-row justify-content-between align-items-center my-5 mb-md-0">
-                        <div class="flex-fill flex-shrink-1 w-50">
-                            <canvas id="distChart" class="donut-chart"></canvas>
-                        </div>
-                        <div id="dist_legend" class="flex-fill w-50 flex-grow-1 donut-legend"></div>
-                    </div>
-                </div>
-            </div>
-            <!-- // row -->
-
         </div>
         <!-- // container -->
     </section>
@@ -188,26 +172,22 @@
         <div class="container">
             <div class="row align-items-center justify-content-between mt-5">
                 <div class="col-12 col-md-6">
-                    <img src="/LandingPage/images/checkout-illustration-light.jpg" alt="illustration" class="img-fluid">
+                    <img src="/LandingPage/logo.png" alt="illustration" class="img-fluid">
                 </div>
                 <div class="col-12 col-md-6">
                     <h6 class="text-info mb-4">
-                        WHY COINDASH
+                        WHY GenZSwap
                     </h6>
-                    <h2 class="mb-4">Together, We’re Modernizing Global Payments</h2>
+                    <h2 class="mb-4">AMM Designed for Stablecoins</h2>
                     <p class="lead mb-4">
                         It’s the fastest and most scalable digital asset, enabling real-time global payments anywhere
                         in the world.
                     </p>
 
                     <p>
-                        Today the world sends more than $155 trillion* across borders. Yet, the underlying
-                        infrastructure is dated and flawed. Coindash
-                        connects banks, payment providers and digital asset exchanges via RippleNet to provide one
-                        frictionless
-                        experience to send money globally.</p>
-
-                    <a href="#" class="btn btn-primary mt-3">Read our Mission</a>
+                       Most of Decentralized Exchanges have huge amount of slippage while swapping stablecoins pegged to the same underlying currency.
+                       Our Solutions helps in minimizing slippage with the help of unique AMM constant functions and incentise users to balance the Liquidity Pools. 
+                    </p>
 
                 </div>
             </div>
